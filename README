@@ -1,0 +1,17 @@
+Code refers to https://medium.alevz.info/quick-deploy-demo-chat-app-vertexai-langchain-strimlit-127f9e18d377
+
+error:
+https://stackoverflow.com/questions/72441758/typeerror-descriptors-cannot-not-be-created-directly
+>> but not set
+
+
+1. need to "gcloud auth application-default login"
+2. streamlit run chat.py
+
+
+other reference:
+https://medium.com/google-cloud/question-a-web-page-using-vertex-ai-palm-api-langchain-and-streamlit-8b56f0753cec
+https://medium.com/google-cloud/a-custom-ama-app-using-vertexai-4788834fb766
+
+vertaxai
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/prompts/examples/question_answering.ipynb
